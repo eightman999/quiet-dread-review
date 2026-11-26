@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-TEXT = "Approved. The code is clean, the tests pass, and none of it will matter when the sun expands, but the diff is genuinely lovely."
+TEXT = "LGTM. We merge, we deploy, we are forgotten by Friday's hotfix, and somehow that is the most comforting part."
 
 
 def main() -> None:
